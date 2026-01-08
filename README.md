@@ -1,3 +1,5 @@
+![ML Visualization Portfolio](repo_banner.png)
+
 <h1>Hi, I'm Bharati! </h1>
 <h2>👨‍💻ML/Visualization_Projects:</h2>
 
@@ -17,3 +19,4 @@
 
 
 <br/><a href="//https://github.com/Bharati-collab"></a><a href="www.linkedin.com/in/bharati-kalambe-2729b1343/">Analytical Professional</a><br/>
+

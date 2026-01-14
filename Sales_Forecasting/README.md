@@ -37,6 +37,9 @@ This project addresses the need for store-level visibility into seasonal sales b
 - Store-level performance differs substantially during peak seasons, requiring localized planning
 - Interactive dashboards enable faster and more informed operational decisions
 
+## Dashboard Preview
+![Dashboard](Sales_forecast.png)
+
 ## Files in this project
 - 📘 Sales_data.xlsx
 - 📊 **Dashboard Screenshot:** Sales_forecast.png

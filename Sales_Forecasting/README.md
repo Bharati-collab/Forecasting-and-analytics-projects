@@ -39,7 +39,7 @@ This project addresses the need for store-level visibility into seasonal sales b
 
 ## Files in this project
 - 📘 Sales_data.xlsx
-- 📊 **Dashboard Screenshot:** Dashboard.png
+- 📊 **Dashboard Screenshot:** Sales_forecast.png
 
 ## Business Recommendations
 - Align inventory and staffing strategies with store-specific holiday demand patterns

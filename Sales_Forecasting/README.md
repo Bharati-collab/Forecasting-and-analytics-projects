@@ -37,6 +37,10 @@ This project addresses the need for store-level visibility into seasonal sales b
 - Store-level performance differs substantially during peak seasons, requiring localized planning
 - Interactive dashboards enable faster and more informed operational decisions
 
+## Files in this project
+- 📘 Sales_data.xlsx
+- 📊 **Dashboard Screenshot:** Dashboard.png
+
 ## Business Recommendations
 - Align inventory and staffing strategies with store-specific holiday demand patterns
 - Incorporate economic indicators into pre-holiday planning cycles

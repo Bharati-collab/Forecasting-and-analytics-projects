@@ -1,13 +1,34 @@
-<h1>Hi, I'm Bharati! </h1>
-<h2>👨‍💻ML/Visualization_Projects:</h2>
+# Machine Learning & Analytics Projects
 
+Hi, I’m **Bharati Kalambe**, a analytical professional with experience in forecasting, analytics, and data-driven decision making.
 
+This repository contains a curated set of **end-to-end analytics and machine learning projects**, demonstrating:
+- Time-series forecasting and baseline benchmarking
+- Business-focused data analysis
+- Model evaluation and storytelling through insights
+- Practical use of Python, ML models, and visualization
 
+---
 
-<h2> 🤳 Connect with me:</h2>
+## 📂 Projects Included
 
-<img align="left" alt="bharati-kalambe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-(https://www.linkedin.com/in/bharati-kalambe-2729b1343/)
+- **Energy Forecasting** – Time-series demand forecasting using Naive baseline and XGBoost
+- **Sales Forecasting** – Predictive modeling for retail sales trends
+- **Fraud Monitoring** – Analytical patterns and anomaly detection
+- **HR Analytics** – Workforce and attrition analysis
+- **Urban Bike Demand Trend** – Demand analysis and visualization
+
+Each folder includes a notebook and insights focused on real-world business problems.
+
+---
+
+## 🛠️ Tools & Skills
+Python, Pandas, NumPy, Scikit-learn, XGBoost, Time-Series Analysis, Data Visualization
+
+---
+
+## 🔗 Connect with Me
+LinkedIn: https://www.linkedin.com/in/bharati-kalambe-2729b134/
 
 
 
